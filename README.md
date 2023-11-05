@@ -1,12 +1,14 @@
 # Wind-Power-forecasting
 This code is for "Development of Forecasting Model for Wind Power Generation in Jeju Island Using Transformer", 2023 Spring conference of KIIE
 
-![image](https://github.com/kimignis/Energy/assets/99465486/cb44d3e4-9fbe-4367-adbd-6455d5ff9d05)
-![image](https://github.com/kimignis/Energy/assets/99465486/9f92e07e-2095-4aac-b148-ffcc05b874b6)
-![image](https://github.com/kimignis/Energy/assets/99465486/ab385979-f654-414e-bd81-b5fc097635a2)
-![image](https://github.com/kimignis/Energy/assets/99465486/5ae3fec8-1951-41dc-b7d3-3411557c71de)
-![image](https://github.com/kimignis/Energy/assets/99465486/9abfeb57-d9a5-47e8-9eb0-da9ee1869f2f)
-![image](https://github.com/kimignis/Energy/assets/99465486/fbac0e79-846b-4320-9d05-b6fb1932b0ec)
+![image](https://github.com/kimignis/Energy/assets/99465486/3fa75a0f-ee31-466a-b156-e2e0bb0dd5f3)
+![image](https://github.com/kimignis/Energy/assets/99465486/606f1dda-b7bf-4b5f-8759-0e7d439ad64b)
+![image](https://github.com/kimignis/Energy/assets/99465486/4cb348c0-9281-4b35-9a6c-85aaeddd7e39)
+![image](https://github.com/kimignis/Energy/assets/99465486/85c906f2-b40a-41d3-b906-ff06e8a14f92)
+![image](https://github.com/kimignis/Energy/assets/99465486/57b1cc17-2360-42c3-8630-4a1d1d381e52)
+![image](https://github.com/kimignis/Energy/assets/99465486/933485fd-1c8b-4f55-878b-5d553f2e9d0a)
+
+
 
 ## Acknowledgement
 This work was partly supported by the Institute of Information & Communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT) (No. RS-2022-00155911, Artificial Intelligence Convergence Innovation Human Resources Development (Kyung Hee University)), and the National Research Foundation of Korea (NRF) grant funded by the Korean government (MSIT) (No. 2017H1D8A2031138).
